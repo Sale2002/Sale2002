@@ -20,4 +20,9 @@ University of Economics Ho Chi Minh City - Finance and Banking (Oct 2023 - Mar 2
 GPA 3.5/4.0. Related coursework: Statistics in Business, Econometrics, Data Science, Quantitative Finance.
 
 ---
+### Certificates
+I have attached several certificates in SQL, Power BI, Azure, and Python in the following link: [Sale2002](https://github.com/Sale2002/Sale2002)
+
+---
+
 ### Projects
