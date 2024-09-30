@@ -1,16 +1,16 @@
 ### About me
-I am a Finance graduate with strong expertise in SQL, Power BI, Python, and Excel. With a passion for data analysis and a problem-solving mindset, I am committed to driving data-driven decision-making. I am seeking a Data Analyst role where I can apply my skills and continue to grow in the field.
+I am a Finance graduate with strong expertise in **SQL, Power BI, Python, and Excel**. With a passion for **data analysis** and a **problem-solving mindset**, I am committed to driving data-driven decision-making. I am seeking a **Data Analyst role** where I can apply my skills and continue to grow in the field.
 
 Contact Information: 
-* Linkedin: www.linkedin.com/in/le-tran-ai-sa
-* Email: letranaisa2002@gmail.com
+* **Linkedin:** www.linkedin.com/in/le-tran-ai-sa
+* **Email:** letranaisa2002@gmail.com
 
 ---
 ### Technical Skills
-* SQL: Google BigQuery
-* Power BI: DAX, Power Query, Data Modeling
-* Python: Pandas, NumPy, MatPlotLib, Seaborn
-* Machine Learning: Supervised & Unsupervised Learning with Scikit-learn
+* **SQL:** Google BigQuery
+* **Power BI:** DAX, Power Query, Data Modeling
+* **Python:** Pandas, NumPy, MatPlotLib, Seaborn
+* **Machine Learning:** Supervised & Unsupervised Learning with Scikit-learn
 
 ---
 
@@ -25,7 +25,7 @@ GPA 3.5/4.0. Related coursework: Statistics in Business, Econometrics, Data Scie
 
 ---
 ### Certificates
-I have attached several certificates in SQL, Power BI, Azure, and Python in the following link: [Sale2002](https://github.com/Sale2002/Sale2002)
+I have attached several certificates in **SQL, Power BI, Azure, and Python** in the following link: [Sale2002](https://github.com/Sale2002/Sale2002)
 
 ---
 
