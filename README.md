@@ -23,6 +23,7 @@ Corporate Finance Intern - FPT Securities JSC (Dec 2023 - Apr 2024)
 University of Economics Ho Chi Minh City - Finance and Banking (Oct 2023 - Mar 2024)
 
 GPA 3.5/4.0.
+
 Related coursework: Statistics in Business, Econometrics, Data Science, Quantitative Finance.
 
 ---
