@@ -7,11 +7,12 @@ Contact Information:
 
 ---
 ### Technical Skills
+* **Accounting Software:** QuickBooks
 * **SQL:** Google BigQuery
 * **Power BI:** DAX, Power Query, Data Modeling
 * **Python:** Pandas, NumPy, MatPlotLib, Seaborn
 * **Machine Learning:** Supervised & Unsupervised Learning with Scikit-learn
-* **Accounting Software:** QuickBooks
+
 ---
 
 ### Work experience
