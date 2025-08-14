@@ -16,9 +16,9 @@ Contact Information:
 ---
 
 ### Work experience
-* Accounting Associate – Phalanx Services Co., LT (Dec 2024 – Present)
-* Business Analyst Intern – GCW Joint Stock Company (May 2024 – Aug 2024)
-* Corporate Finance Intern - FPT Securities JSC (Dec 2023 - Apr 2024)
+* **Accounting Associate** – Phalanx Services Co., LT (Dec 2024 – Present)
+* **Business Analyst Intern** – GCW Joint Stock Company (May 2024 – Aug 2024)
+* **Corporate Finance Intern** - FPT Securities JSC (Dec 2023 - Apr 2024)
 
 ---
 
