@@ -1,5 +1,5 @@
 ### About me
-I am a Finance graduate with strong expertise in **SQL, Power BI, Python, and Excel**. With a passion for **data analysis** and a **problem-solving mindset**, I am committed to driving data-driven decision-making. I am seeking a **Data Analyst role** where I can apply my skills and continue to grow in the field.
+Finance graduate aiming to build a professional career in **accounting** and **auditing**, with strong proficiency in **Excel**, **Power BI**, **SQL**, **Python**, and **QuickBooks**. Skilled in financial reporting, reconciliation, accounts payable/receivable, and cash flow analysis. Analytical and **detail-oriented**, with a **problem-solving mindset**, committed to ensuring accurate financial records and supporting data-driven decision-making. Currently pursuing **ACCA** certification to further strengthen professional expertise.
 
 Contact Information: 
 * **Linkedin:** www.linkedin.com/in/le-tran-ai-sa
@@ -11,10 +11,12 @@ Contact Information:
 * **Power BI:** DAX, Power Query, Data Modeling
 * **Python:** Pandas, NumPy, MatPlotLib, Seaborn
 * **Machine Learning:** Supervised & Unsupervised Learning with Scikit-learn
-
+* **Accounting Software:** QuickBooks
 ---
 
 ### Work experience
+Accounting Associate – Phalanx Services Co., LT (Dec 2024 – Present)
+Business Analyst Intern – GCW Joint Stock Company (May 2024 – Aug 2024)
 Corporate Finance Intern - FPT Securities JSC (Dec 2023 - Apr 2024)
 
 ---
@@ -23,8 +25,6 @@ Corporate Finance Intern - FPT Securities JSC (Dec 2023 - Apr 2024)
 University of Economics Ho Chi Minh City - Finance and Banking (Oct 2023 - Mar 2024)
 
 GPA 3.5/4.0.
-
-Related coursework: Statistics in Business, Econometrics, Data Science, Quantitative Finance.
 
 ---
 ### Certificates
